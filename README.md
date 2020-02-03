@@ -15,11 +15,11 @@
 
 ## Installation
 
-You can download Unity at the following link: [Unity Download](https://unity3d.com/get-unity/download)
+You can download Unity and Unity-Hub at the following link: [Download Unity](https://unity3d.com/get-unity/download)
 
 Unity and Unity-Hub can also be downloaded and installed by running the following commands:
 
-*Note:* This requires chocolatey to be installed
+*Note:* This requires `chocolatey` to be installed
 
 ```powershell
 choco install unity -y
